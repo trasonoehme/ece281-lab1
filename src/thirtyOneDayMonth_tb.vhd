@@ -64,7 +64,7 @@ architecture test_bench of thirtyOneDayMonth_tb is
 	i_D : in std_logic;
 	o_Y : out std_logic
     );	
-  end component;
+  end component thirtyoneDayMonth;
 
   -- declare any additional components required
   
